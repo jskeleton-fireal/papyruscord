@@ -1,0 +1,2 @@
+# papyruscord
+discord but papyrus
